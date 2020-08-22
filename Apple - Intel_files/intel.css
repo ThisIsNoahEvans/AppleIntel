@@ -2,11 +2,11 @@
   layout
 -----------------------------------------------------------------------------*/
 #main { border:1px solid #EEE; margin-top:18px; width:978px; }
- 
+
 /*-----------------------------------------------------------------------------
   header
 -----------------------------------------------------------------------------*/
-#header { height:421px; background:url(/sg/intel/images/indextoptransition20070611.jpg) no-repeat bottom left; }
+#header { height:421px; background:url(/Apple - Intel_files/indextoptransition20070611.jpg) no-repeat bottom left; }
 #header a { color:#2359a3; text-decoration:none; }
 #header a:hover { color:#666; text-decoration:underline; }
 #header h2 { float:left; font-size:18px; padding-top:15px; padding-left:15px; color:#2359a3; }

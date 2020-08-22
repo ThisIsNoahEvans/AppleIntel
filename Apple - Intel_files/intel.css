@@ -1,0 +1,26 @@
+/*-----------------------------------------------------------------------------
+  layout
+-----------------------------------------------------------------------------*/
+#main { border:1px solid #EEE; margin-top:18px; width:978px; }
+
+/*-----------------------------------------------------------------------------
+  header
+-----------------------------------------------------------------------------*/
+#header { height:421px; background:url(/assets/indextoptransition20070611.jpg) no-repeat bottom left; }
+#header a { color:#2359a3; text-decoration:none; }
+#header a:hover { color:#666; text-decoration:underline; }
+#header h2 { float:left; font-size:18px; padding-top:15px; padding-left:15px; color:#2359a3; }
+#header ul { float:right; margin:20px 0 0 0; padding:0; }
+#header li { display:inline; padding:0 15px 0 10px; font-size:10px; color:#2359a3; }
+
+/*-----------------------------------------------------------------------------
+  sidebar
+-----------------------------------------------------------------------------*/
+#content .box { border-bottom:1px solid #EEE; margin-bottom:15px; padding-right:3px; }
+#content .sidebar h3 { color:#2359a3; font-size:11px; }
+#content .sidebar img.right { margin-left:10px; }
+#content .sidebar img.left { margin:0 15px 15px 0; }
+
+/*-----------------------------------------------------------------------------
+  content
+-----------------------------------------------------------------------------*/

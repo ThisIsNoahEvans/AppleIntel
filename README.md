@@ -8,6 +8,8 @@ Also be aware, that as of now, the below section is not on the website. You can 
 
 A version of this page is still available on Apple's website [here](https://www.apple.com/intel/index.html) but it's unclear how long it will last now [the old page](https://www.apple.com/sg/intel) has been removed.
 
+I originally archived the Singapore version of the page - the page I was sent and that had `/sg/` in all URLs - but I have removed that for the standard `apple.com/` URLs.
+
 ![Missing Section](https://cdn.itsnoahevans.co.uk/content/other/apple-intel-missing-section.png)
 
 Feel free to re-add the image and create a PR before I have - I wanted to get this shared and out as soon as possible after I realised the original page had been taken down.
